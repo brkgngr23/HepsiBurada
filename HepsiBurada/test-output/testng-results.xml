@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60243" started-at="2020-08-17T01:25:43 EET" finished-at="2020-08-17T01:26:44 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60243" started-at="2020-08-17T01:25:43 EET" finished-at="2020-08-17T01:26:44 EET">
+      <class name="com.hepsiburada.test.selenium.hepsiburada.HepsiBuradaLoginTest">
+        <test-method status="PASS" signature="StartSuite(org.testng.ITestContext)[pri:0, instance:com.hepsiburada.test.selenium.hepsiburada.HepsiBuradaLoginTest@2bbf4b8b]" name="StartSuite" is-config="true" duration-ms="53" started-at="2020-08-17T01:25:43 EET" finished-at="2020-08-17T01:25:43 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2a7686a7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartSuite -->
+        <test-method status="PASS" signature="Before(java.lang.reflect.Method)[pri:0, instance:com.hepsiburada.test.selenium.hepsiburada.HepsiBuradaLoginTest@2bbf4b8b]" name="Before" is-config="true" duration-ms="7140" started-at="2020-08-17T01:25:43 EET" finished-at="2020-08-17T01:25:51 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.hepsiburada.test.selenium.hepsiburada.HepsiBuradaLoginTest.HepsiBurada_Login() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="HepsiBurada_Login()[pri:0, instance:com.hepsiburada.test.selenium.hepsiburada.HepsiBuradaLoginTest@2bbf4b8b]" name="HepsiBurada_Login" duration-ms="53072" started-at="2020-08-17T01:25:51 EET" finished-at="2020-08-17T01:26:44 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HepsiBurada_Login -->
+        <test-method status="PASS" signature="FailedTestCaseScreenShot(org.testng.ITestResult)[pri:0, instance:com.hepsiburada.test.selenium.hepsiburada.HepsiBuradaLoginTest@2bbf4b8b]" name="FailedTestCaseScreenShot" is-config="true" duration-ms="0" started-at="2020-08-17T01:26:44 EET" finished-at="2020-08-17T01:26:44 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=HepsiBurada_Login status=SUCCESS method=HepsiBuradaLoginTest.HepsiBurada_Login()[pri:0, instance:com.hepsiburada.test.selenium.hepsiburada.HepsiBuradaLoginTest@2bbf4b8b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FailedTestCaseScreenShot -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.hepsiburada.test.selenium.hepsiburada.HepsiBuradaLoginTest@2bbf4b8b]" name="getResult" is-config="true" duration-ms="1" started-at="2020-08-17T01:26:44 EET" finished-at="2020-08-17T01:26:44 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=HepsiBurada_Login status=SUCCESS method=HepsiBuradaLoginTest.HepsiBurada_Login()[pri:0, instance:com.hepsiburada.test.selenium.hepsiburada.HepsiBuradaLoginTest@2bbf4b8b] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.hepsiburada.test.selenium.hepsiburada.HepsiBuradaLoginTest.HepsiBurada_Login() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.hepsiburada.test.selenium.hepsiburada.HepsiBuradaLoginTest@2bbf4b8b]" name="close" is-config="true" duration-ms="4121" started-at="2020-08-17T01:26:44 EET" finished-at="2020-08-17T01:26:48 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.hepsiburada.test.selenium.hepsiburada.HepsiBuradaLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
